@@ -47,7 +47,7 @@
 ## 资料篇
 
 ### 技术站点
-
+- log4geek (http://log4geek.cc/):最geek的互联网技术文章
 - 在线学习：[Coursera](https://www.coursera.org/)、[edX](https://www.edx.org/)、[Udacity](https://cn.udacity.com/)、[MIT公开课](https://ocw.mit.edu/index.htm)、[MOOC学院](http://mooc.guokr.com/course/)、[慕课网](http://www.imooc.com/)
 - [Hacker News](https://news.ycombinator.com/)：非常棒的针对编程的链接聚合网站
 - [Techmeme](https://www.techmeme.com/)：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
